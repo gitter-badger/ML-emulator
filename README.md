@@ -1,6 +1,8 @@
 ML emulator
 ====
 
+[![Join the chat at https://gitter.im/ML-Emulation/ML-emulator](https://badges.gitter.im/ML-Emulation/ML-emulator.svg)](https://gitter.im/ML-Emulation/ML-emulator?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 MissingLink aims to open up a new way to play old games! To avoid reinventing the wheel when it comes to actual emulation, this project is built on top of [mGBA](https://github.com/mgba-emu/mgba/).
 
 [![Build status](https://travis-ci.org/nunomota/ML-emulator.svg?branch=master)](https://travis-ci.org/nunomota/ML-emulator)
